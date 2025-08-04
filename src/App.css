@@ -1,0 +1,40 @@
+/* Estilo global */
+body {
+  font-family: Arial, sans-serif;
+  background-color: red;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #5F9EA0;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+header nav {
+  margin-top: 1rem;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+.main-content {
+  padding: 2rem;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
